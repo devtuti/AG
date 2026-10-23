@@ -1,4 +1,4 @@
-  <script>
+
         // Loading Screen
         window.addEventListener('load', () => {
             setTimeout(() => {
@@ -143,4 +143,4 @@
                 particle.style.transform = `translateY(${scrolled * speed}px)`;
             });
         });
-    </script>
+  
